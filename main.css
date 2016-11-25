@@ -1,0 +1,92 @@
+/*body {
+	
+	text-align: center;
+	border: 1px solid green;
+	margin-left: 50px;
+	margin-right: 50px;
+	
+}*/
+body {
+	background-color: lightblue;
+
+}
+h1 {
+	
+	font-family: 'Shrikhand', cursive;
+	color: purple  ;
+	background-color: lightblue;
+	margin-top:10px;
+
+}
+
+.header-image_priya {
+	width:20%;
+	border-radius: 50%;
+	margin-left: auto;
+}
+
+
+
+h2 {
+	font-size: 15px;
+	text-align: left;
+	font-family: 'Shrikhand', cursive;
+	color: #AED6F1  ;
+	background-color: #Efefef;
+	padding-bottom: .5em;
+	padding-top: .5em;
+	padding-left: 1em;
+}
+
+
+
+.github-logo {
+	width: 20px;
+	height: 20px;
+	margin-bottom: .5em;
+}
+
+.linkedin-logo {
+	margin-bottom:.5em ;
+
+}
+
+.gmail-logo {
+	width:20px;
+	height: 20px;
+	margin-bottom: .5em;
+}
+.footer {
+	text-align: center;
+}
+
+
+/* Media Queries */
+@media (min-width: @screen-lg) {
+    
+}
+
+/*@media (max-width: @screen-sm) {
+    body{font-size: 14px;}
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
