@@ -7,14 +7,28 @@
 	
 }*/
 body {
-	background-color: lightblue;
-
+	
+	margin: auto;
+	
+	text-align: center;
+	background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQWlWoN-r8Tb2MVUGKxxrfRfWVRhO-AQYwFepfRhS45_7WmcTZng);
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
+/*#body-image {
+	background-size: cover;
+	min-width: 100%;
+	min-height: 100%;
+}*/
+
+
 h1 {
 	
 	font-family: 'Shrikhand', cursive;
-	color: purple  ;
-	background-color: lightblue;
+	color: #333;
+	
 	margin-top:10px;
 
 }
@@ -23,6 +37,7 @@ h1 {
 	width:20%;
 	border-radius: 50%;
 	margin-left: auto;
+	border: 1px solid #333;
 }
 
 
@@ -56,21 +71,22 @@ h2 {
 	height: 20px;
 	margin-bottom: .5em;
 }
-.footer {
-	text-align: center;
+
+.link {
+	color: #333;
 }
 
-
-/* Media Queries */
-@media (min-width: @screen-lg) {
-    
+.para-width {
+	border: 3px solid #333;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
-/*@media (max-width: @screen-sm) {
-    body{font-size: 14px;}
+.navbar {
+	border: 3px solid #333;
+	
 }
-*/
-
 
 
 
